@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+"Socials": [
+			["fb", "https://www.facebook.com/akansha.pal.3958/"],
+			["tw", "https://twitter.com/Komal__Pal"],
+			["li", "https://www.linkedin.com/in/komal-pal-8a9a82155/"]
+		]
