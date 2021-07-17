@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 ### &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/ritika99/github-readme-stats">
+<a href="https://github.com/komal7209/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal7209&layout=compact&theme=radical" />
 </a>
 </br>
