@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 <!--    ![Komal's GitHub stats](https://github-readme-stats.vercel.app/api/?username=komal7209&theme=prussian&show_icons=true&count_private=true) -->
    <br />
    <br />
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=komal7209&theme=xcode&hide_border=true)](https://git.io/streak-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=komal7209&theme=prussian&hide_border=true)](https://git.io/streak-stats)
    <br />
    <br />
 <!--    ![Skyline](https://github.com/ShreyaPrasad1209/ShreyaPrasad1209/blob/master/github-metrics.svg) -->
