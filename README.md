@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Komal7209/Komal7209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 
 ### 👋🏻 Hello, World! 
 
-### My name is Ritika Dhiman and I'm a Full stack developer. I'm from Chandigarh, India and currently working as a Machine Learning Research Intern at Design and Innovation Centre, Panjab University and building my technical skills as a Web Developer at Neog Bootcamp. I will be contributing as a mentor at the Open Source Day 2021 in association with virtual Grace Hopper Celebration 2021 and giving back to thhe strong community of women in technology.
+<!-- ### My name is Ritika Dhiman and I'm a Full stack developer. I'm from Chandigarh, India and currently working as a Machine Learning Research Intern at Design and Innovation Centre, Panjab University and building my technical skills as a Web Developer at Neog Bootcamp. I will be contributing as a mentor at the Open Source Day 2021 in association with virtual Grace Hopper Celebration 2021 and giving back to thhe strong community of women in technology. -->
+
+### My name is Komal Pal and I'm a React Native developer and Data Scientist. I'm from Amritsar, India.
 
 #### 👩🏻‍💻 Here's a link to my [Portfolio](https://github.com/Komal7209/MyPortfolio) 
 
@@ -35,7 +37,8 @@ Here are some ideas to get you started:
 
 ### 🌍 Connect with me 
 
-[![Twitter][1.1]][1] [![LinkedIn][2.1]][2] [![Instagram][3.1]][3] [![Google Scholar][4.1]][4]
+[![Twitter][1.1]][1] [![LinkedIn][2.1]][2] [![Instagram][3.1]][3] 
+<!-- [![Google Scholar][4.1]][4] -->
 
 <!-- Icons -->
 
