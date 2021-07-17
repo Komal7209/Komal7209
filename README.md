@@ -91,9 +91,9 @@ Here are some ideas to get you started:
 </a>
 </br>
 </br>
-<a href="https://github.com/komal7209/github-readme-stats">
+<!-- <a href="https://github.com/komal7209/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=komal7209&show_icons=true&theme=radical" />
-</a>
+</a> -->
 </br>
 </br>
 
