@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### My name is Komal Pal and I'm a React Native developer and Data Scientist. I'm from Amritsar, India.
 
-#### 👩🏻‍💻 Here's a link to my [Portfolio](https://github.com/Komal7209/MyPortfolio) 
+#### 👩🏻‍💻 Here's a link to my [Portfolio](https://komal7209.github.io/MyPortfolio/) 
 
 <hr>
 
