@@ -84,6 +84,12 @@ Here are some ideas to get you started:
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Jupyter NoteBook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter-notebook&logoColor=007ACC)
+  ![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=google-colab&logoColor=007ACC)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=007ACC) 
+  
+- 🔬 &nbsp;
+  ![Tensor Flow](https://img.shields.io/badge/-Tensor%20Flow-333333?style=flat&logo=tensor-flow&logoColor=007ACC)
 
 <br/>
 
