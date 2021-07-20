@@ -91,6 +91,7 @@ Here are some ideas to get you started:
 - 🔬 &nbsp;
   ![Tensor Flow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensor-flow&logoColor=007ACC)
   ![DarkNet](https://img.shields.io/badge/-Dark%20Net-333333?style=flat&logo=dark-net&logoColor=007ACC)
+  ![NLP](https://img.shields.io/badge/-NLP-333333?style=flat&logo=NLP&logoColor=007ACC)
 
 <br/>
 
