@@ -89,7 +89,7 @@ Here are some ideas to get you started:
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=007ACC) 
   
 - 🔬 &nbsp;
-  ![Tensor Flow](https://img.shields.io/badge/-Tensor%20Flow-333333?style=flat&logo=tensor-flow&logoColor=007ACC)
+  ![Tensor Flow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensor-flow&logoColor=007ACC)
 
 <br/>
 
