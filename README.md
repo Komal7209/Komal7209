@@ -90,6 +90,8 @@ Here are some ideas to get you started:
   ![Jupyter NoteBook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter-notebook&logoColor=007ACC)
   ![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=google-colab&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=007ACC) 
+  ![YoctoProject](https://img.shields.io/badge/-YoctoProject-333333?style=flat&logo=yoctoproject&logoColor=007ACC) 
+  ![Kubernete](https://img.shields.io/badge/-Kubernete-333333?style=flat&logo=kubernete&logoColor=007ACC) 
   
 - 🔬 &nbsp;
   ![Tensor Flow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensor-flow&logoColor=007ACC)
