@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 <!-- ### My name is Ritika Dhiman and I'm a Full stack developer. I'm from Chandigarh, India and currently working as a Machine Learning Research Intern at Design and Innovation Centre, Panjab University and building my technical skills as a Web Developer at Neog Bootcamp. I will be contributing as a mentor at the Open Source Day 2021 in association with virtual Grace Hopper Celebration 2021 and giving back to thhe strong community of women in technology. -->
 
-### My name is Komal Pal and I'm a React Native developer and Data Scientist. Presently, I have joined DELL R&D where I'm working on building IDRAC with the help of ISM.I could say now, that yes, I'm working on core computation now :) . I'm from Amritsar, India. I love to build project on React Native and would happy to innovate things where data science plays its key role. I'm always ready to brainstorm over data structure and algorithm for building solution which could be of efficient time complexity and space requirements 
+### My name is Komal Pal and I'm a React Native developer and Data Scientist. Presently, I have joined DELL R&D where I'm working on building IDRAC with the help of ISM.I could say now, that yes, I'm working on core computation now :) 
+Presently working on telemetry end to end. I'm from Amritsar, India. I love to build project on React Native and would happy to innovate things where data science plays its key role. I'm always ready to brainstorm over data structure and algorithm for building solution which could be of efficient time complexity and space requirements 
 
 #### 👩🏻‍💻 Here's a link to my [Portfolio](https://komal7209.github.io/MyPortfolio/) 
 
