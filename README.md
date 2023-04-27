@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ### My name is Komal Pal and I'm a React Native developer and Data Scientist. Presently, I have joined DELL R&D where I'm working on building IDRAC with the help of ISM.I could say now, that yes, I'm working on core computation now :) Presently working on telemetry end to end. 
 ### I'm from Amritsar, India. I love to build project on React Native and would happy to innovate things where data science plays its key role. I'm always ready to brainstorm over data structure and algorithm for building solution which could be of efficient time complexity and space requirements 
+### Now new things on which I'm working about is monolithic and microservice conversions :)
 
 #### 👩🏻‍💻 Here's a link to my [Portfolio](https://komal7209.github.io/MyPortfolio/) 
 
