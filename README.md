@@ -105,6 +105,10 @@ Here are some ideas to get you started:
 <hr>
 
 ### :video_camera: Latest Youtube Videos
+
+## I have youtube channel which helps in interview prep
+[Link to my youtube Channel](https://www.youtube.com/@KomalPal)
+</br>
 - 💻 &nbsp; [Leetcode Blind 75 Playlist](https://youtube.com/playlist?list=PLo8g39roTXG50wqLUCdFfq2IrZZq1AXc6)
 - 💻 &nbsp; [Leetcode Weekly Challenge](https://youtube.com/playlist?list=PLo8g39roTXG5NcLuPyCf8Z_iLXj1AHeFT)
 
