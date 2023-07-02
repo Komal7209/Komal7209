@@ -112,6 +112,14 @@ Here are some ideas to get you started:
 - 💻 &nbsp; [Leetcode Blind 75 Playlist](https://youtube.com/playlist?list=PLo8g39roTXG50wqLUCdFfq2IrZZq1AXc6)
 - 💻 &nbsp; [Leetcode Weekly Challenge](https://youtube.com/playlist?list=PLo8g39roTXG5NcLuPyCf8Z_iLXj1AHeFT)
 
+  </br>
+
+  ### Github Repo corresponding to solution on my youtube channel:
+
+  [Link to Github repo](https://github.com/Komal7209/YouTube-Practise.git)
+  
+  </br>
+
 <hr>
 <br/>
 
