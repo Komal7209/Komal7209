@@ -102,6 +102,17 @@ Here are some ideas to get you started:
   ![NLP](https://img.shields.io/badge/-NLP-333333?style=flat&logo=NLP&logoColor=007ACC)
 
 <br/>
+<hr>
+
+### :video_camera: Latest Youtube Videos
+
+<hr>
+<br/>
+
+### :notebook_with_decorative_cover: Latest Blog Posts
+
+<hr>
+<br/>
 
 ### &#x1f4c8; GitHub Stats
 
@@ -115,7 +126,7 @@ Here are some ideas to get you started:
 </a> -->
 
 
-  [![Komal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=komal7209&theme=xcode)](https://git.io/komal7209) 
+<!--  [![Komal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=komal7209&theme=xcode)](https://git.io/komal7209) -->
   
    ![Komal's GitHub stats](https://github-readme-stats.vercel.app/api/?username=komal7209&theme=prussian&show_icons=true&count_private=true)
    <br />
