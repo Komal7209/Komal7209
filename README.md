@@ -105,11 +105,20 @@ Here are some ideas to get you started:
 <hr>
 
 ### :video_camera: Latest Youtube Videos
+- 💻 &nbsp; [Leetcode Blind 75 Playlist](https://youtube.com/playlist?list=PLo8g39roTXG50wqLUCdFfq2IrZZq1AXc6)
+- 💻 &nbsp; [Leetcode Weekly Challenge](https://youtube.com/playlist?list=PLo8g39roTXG5NcLuPyCf8Z_iLXj1AHeFT)
 
 <hr>
 <br/>
 
 ### :notebook_with_decorative_cover: Latest Blog Posts
+
+- 💻 &nbsp; [What choose from Vertical/Horizontal/cache in System Design](https://medium.com/@komalpal/what-choose-from-vertical-horizontal-cache-in-system-design-1f5e5e5b183c)
+- 💻 &nbsp; [API Architectural Styles](https://medium.com/@komalpal/api-architectural-styles-97a42c0057d0)
+- 💻 &nbsp; [SOAP API Architectural Style](https://medium.com/@komalpal/soap-api-architectural-style-9309873df6)
+- 💻 &nbsp; [REST API Architectural Style](https://medium.com/@komalpal/rest-api-architectural-style-5d7f63ffde88)
+- 💻 &nbsp; [GraphQL API Architectural Style](https://medium.com/@komalpal/graphql-api-architectural-style-f23525a7c09c)
+- 💻 &nbsp; [gRPC API Architectural Style](https://medium.com/@komalpal/grpc-api-architectural-style-d3af3f509ab8)
 
 <hr>
 <br/>
@@ -135,4 +144,7 @@ Here are some ideas to get you started:
    <br />
    <br />
 <!--    ![Skyline](https://github.com/ShreyaPrasad1209/ShreyaPrasad1209/blob/master/github-metrics.svg) -->
+   <br/>
+   <br/>
+   
 
