@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 ### I'm from Amritsar, India. I love to build project on React Native and would happy to innovate things where data science plays its key role. I'm always ready to brainstorm over data structure and algorithm for building solution which could be of efficient time complexity and space requirements 
 ### Completed my work about monolithic to microservice conversions. Working on servicenow platform for providing cmdb users with cloudiq data.
 
+### From Server Domain, Now I 'm working on Storage Domain. Working on Building PPDM
+
 #### 👩🏻‍💻 Here's a link to my [Portfolio](https://komal7209.github.io/MyPortfolio/) 
 
 <hr>
