@@ -116,6 +116,12 @@ Here are some ideas to get you started:
 
   </br>
 
+ ## Started with something which i call as knowledge powerpacks
+
+ - 💻 &nbsp; [Knowledge PowerPack Playlist](https://youtube.com/playlist?list=PLo8g39roTXG4V6TKbxoVpw-TwMc_BzLYu&si=-hZGE87NP1P97NbO)
+
+  </br>
+
   ### Github Repo corresponding to solution on my youtube channel:
 
   [Link to Github repo](https://github.com/Komal7209/YouTube-Practise.git)
