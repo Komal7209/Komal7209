@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### From Server Domain, Now I'm working on Storage Domain. Working on Building Power Protect Data Manager
 
-###Something which makes me happy is I always to get my patent done, and just after joining Dell R&D, I got my patent out in 6 months of joining and its already approved by USPTO.
+### Something which makes me happy is I always to get my patent done, and just after joining Dell R&D, I got my patent out in 6 months of joining and its already approved by USPTO.
 
 #### 👩🏻‍💻 Here's a link to my [Portfolio](https://komal7209.github.io/MyPortfolio/) 
 
