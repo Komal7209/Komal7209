@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### 👋🏻 Hello, World! 
 
-<!-- ### My name is Ritika Dhiman and I'm a Full stack developer. I'm from Chandigarh, India and currently working as a Machine Learning Research Intern at Design and Innovation Centre, Panjab University and building my technical skills as a Web Developer at Neog Bootcamp. I will be contributing as a mentor at the Open Source Day 2021 in association with virtual Grace Hopper Celebration 2021 and giving back to thhe strong community of women in technology. -->
+<!-- ### My name is  and I'm a Full stack developer. I'm from Chandigarh, India and currently working as a Machine Learning Research Intern at Design and Innovation Centre, Panjab University and building my technical skills as a Web Developer at Neog Bootcamp. I will be contributing as a mentor at the Open Source Day 2021 in association with virtual Grace Hopper Celebration 2021 and giving back to thhe strong community of women in technology. -->
 
 ### My name is Komal Pal and I'm a React Native developer and Data Scientist. Language no bar, but have worked on C , C++ , Java, Javascript, Python, Golang all as per roles and requirement. Presently, I'm working at DELL R&D where I have worked on building IDRAC with the help of ISM. I could say now, that yes, I'm working on core computation now :) Worked on host telemetry end to end. 
 ### I'm from Amritsar, India. I love to build project on React Native and would happy to innovate things where data science plays its key role. I'm always ready to brainstorm over data structure and algorithm for building solution which could be of efficient time complexity and space requirements 
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp&logoColor=007396)
-  ![Go](https://img.shields.io/badge/-Golang-333333?style=flat&logo=Golang&logoColor=007396)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=007396)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
