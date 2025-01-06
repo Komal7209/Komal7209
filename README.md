@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 <!-- ### My name is  and I'm a Full stack developer. I'm from Chandigarh, India and currently working as a Machine Learning Research Intern at Design and Innovation Centre, Panjab University and building my technical skills as a Web Developer at Neog Bootcamp. I will be contributing as a mentor at the Open Source Day 2021 in association with virtual Grace Hopper Celebration 2021 and giving back to thhe strong community of women in technology. -->
 
-### My name is Komal Pal and I'm a React Native developer and Data Scientist. Language no bar, but have worked on C , C++ , Java, Javascript, Python, Golang all as per roles and requirement. Presently, I'm working at DELL R&D where I have worked on building IDRAC with the help of ISM. I could say now, that yes, I'm working on core computation now :) Worked on host telemetry end to end. 
+### My name is Komal Pal and I'm a React Native developer and Data Scientist. Language no bar, but have worked on C , C++ , Java, Javascript, Python, Golang all as per roles and requirement. I had worked at DELL R&D where I have worked on building IDRAC with the help of ISM. I could say now, that yes, I'm working on core computation now :) Worked on host telemetry end to end. 
 ### I'm from Amritsar, India. I love to build project on React Native and would happy to innovate things where data science plays its key role. I'm always ready to brainstorm over data structure and algorithm for building solution which could be of efficient time complexity and space requirements 
 ### Completed my work about monolithic to microservice conversions. Worked on servicenow platform for providing cmdb users with cloudiq data.
 
-### From Server Domain, Now I'm working on Storage Domain. Working on Building Power Protect Data Manager
+### From Server Domain, Then I switched to Storage Domain. Worked on Building Power Protect Data Manager
 
 ### Something which makes me happy is I always to get my patent done, and just after joining Dell R&D, I got my patent out in 6 months of joining and its already approved by USPTO.
 
