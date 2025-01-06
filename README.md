@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### My name is Komal Pal and I'm a React Native developer and Data Scientist. Language no bar, but have worked on C , C++ , Java, Javascript, Python, Golang all as per roles and requirement. I had worked at DELL R&D where I have worked on building IDRAC with the help of ISM. I could say now, that yes, I'm working on core computation now :) Worked on host telemetry end to end. 
 ### I'm from Amritsar, India. I love to build project on React Native and would happy to innovate things where data science plays its key role. I'm always ready to brainstorm over data structure and algorithm for building solution which could be of efficient time complexity and space requirements 
-### Completed my work about monolithic to microservice conversions. Worked on servicenow platform for providing cmdb users with cloudiq data.
+### Completed my work about monolithic to microservice conversions which was from C to Go. Worked on servicenow platform for providing cmdb users with cloudiq data and backend apis in java and springboot.
 
 ### From Server Domain, Then I switched to Storage Domain. Worked on Building Power Protect Data Manager
 
