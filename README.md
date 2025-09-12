@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 ### From Server Domain, Then I switched to Storage Domain. Worked on Building Power Protect Data Manager
 
+### From Storage Domain, now I have switched to cloud and data management domain.
+
 ### Something which makes me happy is I always to get my patent done, and just after joining Dell R&D, I got my patent out in 6 months of joining and its already approved by USPTO.
 
 #### 👩🏻‍💻 Here's a link to my [Portfolio](https://komal7209.github.io/MyPortfolio/) 
