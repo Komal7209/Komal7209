@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### 🌍 Connect with me 
 
-[![Twitter][1.1]][1] [![LinkedIn][2.1]][2] [![Instagram][3.1]][3] 
+[![Twitter][1.1]][1] [![LinkedIn][2.1]][2] [![Instagram][3.1]][3] [![Google Scholar][4.1]][4] [![Youtube][5.1]][5] 
 <!-- [![Google Scholar][4.1]][4] -->
 
 <!-- Icons -->
@@ -51,14 +51,17 @@ Here are some ideas to get you started:
 [1.1]: https://img.icons8.com/color/48/000000/linkedin.png (LinkedIn icon with padding)
 [2.1]: https://img.icons8.com/color/48/000000/twitter--v1.png (twitter icon with padding)
 [3.1]: https://img.icons8.com/color/48/000000/instagram-new--v1.png (instagram icon with padding)
-<!-- [4.1]: https://img.icons8.com/color/48/000000/google-scholar--v3.png (google scholar icon with padding) -->
+[4.1]: https://img.icons8.com/color/48/000000/google-scholar--v3.png (google scholar icon with padding) 
+[5.1]: https://img.icons8.com/color/48/000000/youtube-play.png (youtube icon with padding)
+ 
 
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/komal-pal-8a9a82155/
 [2]: https://twitter.com/Komal__Pal
 [3]: https://www.instagram.com/k.p7299/
-<!-- [4]: https://scholar.google.com/citations?user=9OV1cLoAAAAJ&hl=en -->
+[4]: https://patents.google.com/?inventor=Komal+Pal
+[5]: https://www.youtube.com/@TechWithKomal
 
 <hr>
 
