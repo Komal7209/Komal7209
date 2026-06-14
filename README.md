@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 [1]: https://www.linkedin.com/in/komal-pal-8a9a82155/
 [2]: https://twitter.com/Komal__Pal
 [3]: https://www.instagram.com/k.p7299/
-[4]: https://patents.google.com/?inventor=Komal+Pal
+[4]: https://scholar.google.com/citations?user=dqv9NDEAAAAJ&hl=en
 [5]: https://www.youtube.com/@TechWithKomal
 
 <hr>
@@ -112,6 +112,12 @@ Here are some ideas to get you started:
   ![NLP](https://img.shields.io/badge/-NLP-333333?style=flat&logo=NLP&logoColor=007ACC)
 
 <br/>
+<hr>
+
+## My Patent:
+
+- [Predicted-temperature-based virtual machine management system](https://patents.google.com/?inventor=Komal+Pal)
+
 <hr>
 
 ### :video_camera: Latest Youtube Videos
